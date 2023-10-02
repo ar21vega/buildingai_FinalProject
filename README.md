@@ -1,5 +1,5 @@
 # buildingai_FinalProject
-An OrderBot based on ChatBot.
+This is a part of the Final Project, an OrderBot based on ChatBot.
 The proposed OrderBot is a customized version of a ChatBot based on the OpenAI and designed for the final assignment, in relation to the Deeplearning.ai_Prompt Engineering for Developers course. 
 
 This Bot uses the structure advised in the course with a few changes.
